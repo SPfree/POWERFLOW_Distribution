@@ -1,2 +1,4 @@
 # POWERFLOW_Distribution
 针对配电网潮流计算的前推后代python版本
+
+配合的节点、功率信息如33节点的txt所示
